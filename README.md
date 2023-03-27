@@ -1,6 +1,6 @@
 ### Olá, eu sou o Rafael Almeida 👋
 
-- 🌱 Estudando Ciência de Dados!
+- 🌱 Estudando Ciência de Dados com Python!
 
 <div align="center">
   <a href="https://beacons.ai/rafaelqalmeida">
@@ -9,8 +9,7 @@
 </div>
   
   <div style="display: inline_block"><br>
-  
-    <img align="center" alt="Rafael-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafael-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    <img align="center" alt="Rafael-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
   <img align="center" alt="Rafael-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafael-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
