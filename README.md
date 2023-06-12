@@ -1,4 +1,4 @@
-### Olá, eu sou o Rafael Almeida 👋
+# Olá, eu sou o Rafael Almeida 👋
 
 - 🌱 Estudando Ciência de Dados com Python!
 
