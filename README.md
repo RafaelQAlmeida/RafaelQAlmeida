@@ -1,7 +1,7 @@
 ## Olá, sou o Rafael :)
 Atualmente estudando Análise de Dados e Machine Learning. Gosto também de pesquisar e aprender sobre programação de jogos e programação para Web!
 
-- 👨🏻‍💻 Atuei como **Instrutor** de Informática na [Mikrão Informática](https://www.mikrao.com/), ensinando Programação, Excel Avançado e Manutenção de Computadores
+- 👨🏻‍💻 Atuei como **Instrutor** de Informática na [Mikrão Informática](https://www.mikrao.com.br/), ensinando Programação, Excel Avançado e Manutenção de Computadores
 - ⚔️ Apaixonado por **RPG**
 - 🖥️ Atualmente mais focado em:
 <div style="display: inline">
